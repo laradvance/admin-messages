@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/messages",
+    "name": "laradvance/admin-messages",
     "description": "Message extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "messages"],
-    "homepage": "https://github.com/laravel-admin-extensions/messages",
+    "homepage": "https://github.com/laradvance/admin-messages",
     "license": "MIT",
     "authors": [
         {
